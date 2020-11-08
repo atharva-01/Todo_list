@@ -1,0 +1,3 @@
+Study,high
+Rest,high
+eating,medium
